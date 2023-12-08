@@ -1,5 +1,6 @@
 # AutoGPT
-Learning langchain
+This is a ![YouTube GPT Creator](image.png). It connected to the OpenAI API and wiki page to generate the answers. 
+
 
 ## Set up the environment 
 `pip install streamlit langchain openai wikipedia chromadb tiktoken`
