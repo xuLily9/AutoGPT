@@ -1,6 +1,6 @@
 # AutoGPT
-This is a ![YouTube GPT Creator](image.png). It connected to the OpenAI API and wiki page to generate the answers. 
-
+This is a YouTube GPT Creator. It connected to the OpenAI API and wiki page to generate the answers. 
+![](image.png)
 
 ## Set up the environment 
 `pip install streamlit langchain openai wikipedia chromadb tiktoken`
